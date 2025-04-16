@@ -1,0 +1,14 @@
+body {
+    font-size: 20px;
+    background-color: forestgreen;
+}
+.container {
+    flex-direction: column;
+    background-color: blueviolet;
+    color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+input .text {
+    color: brown;
+}
